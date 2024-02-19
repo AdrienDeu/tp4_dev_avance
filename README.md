@@ -9,7 +9,7 @@ Ce TP concerne le développement d'un service web **d'authentification sécuris�
 ### Les étapes
 Le développement de ce programme est scindé en 2 étapes :
 - La 1ère étape a consisté à tester l'authentification à l'aide de Postman, ainsi qu'à rajouter la route "**autre**".
-- La 2ème étape a consisté à certifier l'application afin de faire passer le protocol en https.
+- La 2ème étape a consisté à certifier l'application afin de faire passer le protocole en https.
   
 ### Difficultés rencontrées
 Durant le TP, j'ai eu des difficultés à réaliser l'étape 3. Les 2 premières étapes sont cependants fonctionnelles.
