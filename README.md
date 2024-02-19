@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Ce TP concerne le développement d'un service web **d'authentification sécurisée** ainsi que l'utilisation de openssl afin de générer une certification de sécurité.
+Ce TP concerne le développement d'un service web **d'authentification sécurisée** ainsi que l'utilisation de **openssl** afin de générer une certification de sécurité.
 
 ## Développement
 
